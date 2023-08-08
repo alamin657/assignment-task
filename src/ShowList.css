@@ -1,0 +1,7 @@
+.cardgroup .card {
+    margin-right: 35px;
+}
+
+.mycardgroup .card:last-child {
+    margin-right: 0;
+}
